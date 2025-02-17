@@ -10,13 +10,18 @@ Code for our paper: Visual Wings for Textual Prompts: Infusing Textual Prompts w
 
 We follow the data setting as in [osr_closed_set_all_you_need](https://github.com/sgvaze/osr_closed_set_all_you_need) .
 
-Download datasets below:
+Download datasets below:    
+
+
+
 [CIFAR-10/100](https://pytorch.org/vision/stable/datasets.html),
 
 [TinyImageNet](https://github.com/rmccorm4/Tiny-Imagenet-200)
 
 For TinyImageNet, you also need to run `create_val_img_folder` in `data/tinyimagenet.py` to create
 a directory with the test data.
+
+[LSUN](https://github.com/facebookresearch/odin)
 
 
 ## Installation
