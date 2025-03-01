@@ -44,6 +44,7 @@ pip install -r requirements.txt
 * Vision-Language models downloading
 
   "ViT-B/32": "https://openaipublic.azureedge.net/clip/models/40d365715913c9da98579312b702a82c18be219cc2a73407c4526f58eba950af/ViT-B-32.pt",
+
   "ViT-B/16": "https://openaipublic.azureedge.net/clip/models/5806e77cd80f8b59890b7e101eabd078d9fb84e6937f9e85e4ecb61988df416f/ViT-B-16.pt"
 
 * configuration
@@ -53,8 +54,15 @@ pip install -r requirements.txt
 ### Training
 
 ```
-bash run_infuse.sh
+bash run_infuse.sh 0
 ```
+
+0 represents the ID of the designated GPU.
+
+Additionally, we have prepared a video demonstration that walks through the setup process and
+execution of the experiments, which can be downloaded at: [Infuse_Demo](https://drive.google.com/file/d/1kFJo6T3o_buHrg4ncVj7_y8DdrqU5HfG/view?usp=sharing).
+
+To facilitate the reproduction of the experiments, we also provide a video demonstration of these instructions: 
 
 **hyper-parameters:**
 
