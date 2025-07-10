@@ -61,7 +61,10 @@ bash run_infuse.sh 0
 
 Additionally, we have prepared a video demonstration that walks through the setup process and
 execution of the experiments, which can be downloaded at: [Infuse_Demo](https://drive.google.com/file/d/1kFJo6T3o_buHrg4ncVj7_y8DdrqU5HfG/view?usp=sharing).
+### Testing
+Please download the checkpoint at: [Checkpoint](https://drive.google.com/file/d/1sJMHAV3pXjYfit_5HGXTEpboHIbXGvjY/view?usp=drive_link).
 
+Then, run osr_cocoop_test.py to test on tinyimagenet.
 To facilitate the reproduction of the experiments, we also provide a video demonstration of these instructions: 
 
 **hyper-parameters:**
