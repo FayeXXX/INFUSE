@@ -65,7 +65,6 @@ execution of the experiments, which can be downloaded at: [Infuse_Demo](https://
 Please download the checkpoint at: [Checkpoint](https://drive.google.com/file/d/1sJMHAV3pXjYfit_5HGXTEpboHIbXGvjY/view?usp=drive_link).
 
 Then, run osr_cocoop_test.py to test on tinyimagenet.
-To facilitate the reproduction of the experiments, we also provide a video demonstration of these instructions: 
 
 **hyper-parameters:**
 
