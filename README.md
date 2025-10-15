@@ -77,3 +77,6 @@ Then, run osr_cocoop_test.py to test on tinyimagenet.
 ## Acknowledgements
 
 Our code is based on [CoOp](https://github.com/KaiyangZhou/CoOp) ,[osr_closed_set_all_you_need](https://github.com/sgvaze/osr_closed_set_all_you_need) , and [cat](https://github.com/linhezheng19/CAT) repository. We thank the authors for releasing their code. If you use our model and code, please consider citing these works as well.
+
+## Citation
+Yifei XIE, Chuanxing GENG, Zhisong PAN. Visual Wings for Textual Prompts: Infusing Textual Prompts with Visual Features for Open-set Recognition. Front. Comput. Sci. DOI:10.1007/s11704-025-50515-9
